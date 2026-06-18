@@ -21,3 +21,5 @@ data:
     file8: "../data/clean/TG.csv"
     file9: "../data/clean/TN.csv"
     file10: "../data/clean/TX.csv"
+    file11: "../data/clean/heatwave.csv"
+    file10: "../data/clean/TX.csv"
